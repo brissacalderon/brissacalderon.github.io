@@ -1,6 +1,6 @@
 # 📊 Data Science Salary Analysis
 
-A data analysis project that explores salary trends in the data science industry using Python and data visualization techniques. The goal is to understand how factors like experience, job role, location, and company size affect salaries.
+A data analysis project that explores salary trends in the data science industry using Python, data visualization techniques, and Machine Learning. The goal is to understand how factors like experience, job role, location, and company size affect salaries.
 
 ---
 
